@@ -9,7 +9,7 @@ After installing [DeepLabCut](https://github.com/AlexEMG/DeepLabCut), install th
 To set up pyftdi, follow the instructions [here](https://github.com/eblot/pyftdi).
 
 ## Usage
-1. Clone this repo with `git clone https://github.com/eblot/pyftdi`.
+1. Clone this repo with `git clone https://github.com/bf777/DeepCutRealTime.git`.
 1. Copy `AnalyzeVideos_streamLocalThreadedLED.py` into the `Analysis-tools` folder in `DeepLabCut`.
 2. Copy `led_test.py` and `myconfig_stream.py` into your `DeepLabCut` base level folder.
 
