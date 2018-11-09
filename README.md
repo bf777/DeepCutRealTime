@@ -2,6 +2,8 @@
 Additional scripts for DeepLabCut to enable real-time tracking, as well as a GPIO test class adapted from pyftdi.
 
 ## Dependencies
+Please note that these scripts were compiled to work with **DeepLabCut 1.11 only**; this is not the current version of DeepLabCut (2.0). Please follow the instructions for installing DeepLabCut 1.11 on the page below. Updates to integrate these scripts with DeepLabCut 2.0 will come soon.
+
 After installing [DeepLabCut](https://github.com/AlexEMG/DeepLabCut), install the dependencies for DeepCutRealTime with `pip install opencv-python pyftdi imutils`.
 
 To set up pyftdi, follow the instructions [here](https://github.com/eblot/pyftdi).
